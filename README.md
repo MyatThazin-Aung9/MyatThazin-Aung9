@@ -1,3 +1,4 @@
+[Laptop Image](http://url/to/img.png)
 <h1 align="center">Hi 👋, I'm Myat Thazin Aung</h1>
 <h3 align="center">Web Developer</h3>
 
