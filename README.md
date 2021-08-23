@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Professional Advanced**
 
-- 💬 Ask me about **PHP, CMS, Web Development, Web-mail service and Hostiong**
+- 💬 Ask me about **PHP, CMS, Web Development, Web-mail service and Hosting**
 
 - 📫 How to reach me **myatthazinaung.mtu@gmail.com**
 
