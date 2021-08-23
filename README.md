@@ -1,4 +1,4 @@
-[Laptop Image](http://url/to/img.png)
+[Laptop Image](https://github.com/MyatThazin-Aung9/MyatThazin-Aung9/blob/main/developer.jpg)
 <h1 align="center">Hi 👋, I'm Myat Thazin Aung</h1>
 <h3 align="center">Web Developer</h3>
 
