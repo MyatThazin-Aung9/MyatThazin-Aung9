@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my projects**
 
-- 🌱 I’m currently learning **Web Professional Advanced course (Laravel) and Vue**
+- 🌱 I’m currently learning **Web Professional Advanced course (Laravel) and Vue.js**
 
 - 💬 Ask me about **PHP, MySQL, CMS, Web Development, Web-mail service and Hosting**
 
