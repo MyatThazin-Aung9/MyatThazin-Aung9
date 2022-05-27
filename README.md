@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Myat Thazin Aung</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Senior Web Developer and Team Leader</h3>
 
 - 🔭 I’m currently working on **my projects**
 
