@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **my projects**
 
-- 🌱 I’m currently learning **Frontend Web Professional Advanced course**
+- 🌱 I’m currently learning **Frontend Web Professional Advanced**
 
-- 💬 Ask me about **PHP, MySQL, CMS, Web Development, Web-mail service and Hosting**
+- 💬 Ask me about **CMS, Web Development, Web-mail service and Hosting**
 
 - 📫 How to reach me **myatthazinaung.mtu@gmail.com**
 
